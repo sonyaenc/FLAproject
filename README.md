@@ -4,6 +4,8 @@ The project demonstrates the ability to define and implement a tokenizer capable
 based on a simple grammar and regular expressions.
 
 *keep in mind: the comments describing various parts of the code are written in italian. For now at least, I won't change them*
+
+
 *the project is not perfect, it requires additional changes, and some other tests may not work correctly, because of the restricting grammar it works upon.
 You are welcome to suggest additional alterations and features if you are interested in continuing this small project*
 
